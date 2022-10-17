@@ -15,9 +15,6 @@ Não existe necessidade para instalação. Apenas copiar o endereço digital a s
 ## Como utilizar:
 Para utilizar, deve-se, inserir dados pessoais do desenvolvedor. Alguns campos são de preenchimento obrigatório para finalizar o cadastro. Ao final, clicar no botão Concluído.
 
-## Bugs e Falhas:
-Para o projeto em questão, não foram detectados bugs ou falhas.
-
 ## Linguagens Utilizadas:
 Para criação deste portfolio foram utilizadas as linguagens HTML e CSS.
 
